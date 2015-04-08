@@ -1,0 +1,16 @@
+= This is another post
+
+Not so sure how to handle this, but here we go!
+
+
+- Some things
+- Are not two things
+
+
+So, here we go:
+
+```javascript
+var pepe = new User('Pepe Rone');
+pepe.say('Hello!');
+//Hello!
+```
